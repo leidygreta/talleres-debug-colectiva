@@ -1,4 +1,4 @@
-# Talleres de Git y GitHub para Científicas Sociales
+# Programa Debug Colectiva: Git, GitHub y mentorías para Científicas Sociales
 ![Debug Colectiva Banner](https://via.placeholder.com/1200x300/6366f1/ffffff?text=Debug+Colectiva+-+Git+%26+GitHub+para+Científicas+Sociales)
 
 ## 🎯 Sobre el Programa
@@ -15,7 +15,7 @@ Este programa está diseñado específicamente para científicas sociales que de
 
 | Detalle | Información |
 |---------|-------------|
-| **Fechas** | [02 al 21 de octubre del 2025] |
+| **Fechas** | 02 al 21 de octubre del 2025 |
 | **Horario** | 7:30 – 9:30 p.m |
 | **Modalidad** | Virtual |
 | **Dirigido a** | Mujeres profesionales en ciencias sociales |
