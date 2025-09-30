@@ -1,0 +1,8 @@
+format: jb-book
+root: README
+parts:
+- caption: Notes
+  chapters:
+  - file: notes/day1.ipynb
+  - file: notes/day2.ipynb
+  - file: notes/mentoring.ipynb
