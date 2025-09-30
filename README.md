@@ -38,6 +38,17 @@ Este programa está diseñado específicamente para científicas sociales que de
 
 ## 📚 Contenido del Programa
 
+| Día                 | Resumen             | 
+|--------------------------|---------------------|
+| 1° encuestro: 02 oct | 💻 Capacitación técnica en GitHub         |
+| 2° encuentro: 06 - 11 oct | 🫱🏼‍🫲🏼 Primera sesión de mentoría | 
+| 3° encuentro: 09 oct | 👩🏻‍💻 Capacitación técnica en GitHub II |
+| 4° encuentro: 13 - 18 oct| 💡Segunda sesión de mentoría |
+| 5° encuentro: 14 oct | 🧩 1° Espacio colaborativo: "Abriendo el Código" |
+| 6° encuentro: 20 - 25 oct| Tercera sesión de mentoría |
+| 7° encuentro: 21 oct | 2° Espacio colaborativo: "Código en Marcha" |
+| 8° encuentro: Por definir | 3° Espacio colaborativo y Clausura |
+
 ### 🌟 Día 1: Introducción a Git y GitHub
 
 **Objetivo:** Comprender qué es Git y GitHub, instalar herramientas básicas y realizar el primer repositorio.
