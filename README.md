@@ -49,38 +49,6 @@ Este programa está diseñado específicamente para científicas sociales que de
 | 7° encuentro: 21 oct | 2° Espacio colaborativo: "Código en Marcha" |
 | 8° encuentro: Por definir | 3° Espacio colaborativo y Clausura |
 
-### 🌟 Día 1: Introducción a Git y GitHub
-
-**Objetivo:** Comprender qué es Git y GitHub, instalar herramientas básicas y realizar el primer repositorio.
-
-#### Temas cubiertos:
-- ✨ **¿Por qué Git/GitHub en ciencias sociales?**
-  - Visibilidad de mujeres en las ciencias sociales
-  - Casos inspiradores de investigadoras usando GitHub
-  - Organización de proyectos de investigación
-  
-- 🛠️ **Primeros pasos técnicos**
-  - Instalación de Git Bash / Terminal
-  - Instalación de Visual Studio Code
-  - Creación de cuenta en GitHub
-  
-- 📖 **Conceptos fundamentales**
-  - Comandos básicos de terminal
-  - Repositorios: carpetas inteligentes en la nube
-  - Commits: guardar cambios con historia
-  - Push/Pull: sincronizar con la nube
-  
-- 💻 **Ejercicio práctico**
-  - Crear tu primer repositorio en GitHub
-  - Conectarlo con tu computadora
-  - Subir archivos de investigación (PDF, Excel, Word)
-  - Visualizar cambios en GitHub
-
-#### Producto del Día 1:
-✅ Herramientas instaladas y configuradas  
-✅ Primer repositorio creado y publicado  
-✅ Comprensión del flujo básico de trabajo
-
 ---
 
 ## 📖 Recursos y Materiales
